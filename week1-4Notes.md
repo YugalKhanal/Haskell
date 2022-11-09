@@ -1,6 +1,5 @@
 # Types in Programming, types in Haskell
 
-
 ## Introduction
 
 The topic is introduced in the [video "Typing - Introduction"](https://bham.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=3d391440-24b8-4772-a8f0-adab008c58f5) on Canvas.
